@@ -1,0 +1,14 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ËÂ®’üÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(¦†¸“ıÿÿÿÿ
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(µÏ²»ÿÿÿÿÿ
+m
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ËÂ®’üÿÿÿÿ
+G
+java:S1444",Make this "public static driver" field final(ËÂ®’üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚Ÿ•áøÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(øÅÖõ

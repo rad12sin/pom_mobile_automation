@@ -1,0 +1,13 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Òöïóûÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ÏÌü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÃÁ›øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ùäó˜ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(÷æ°”üÿÿÿÿ
+t
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+E	java:S106#"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(òßü³üÿÿÿÿ
+c	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜É©÷
